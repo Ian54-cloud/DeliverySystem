@@ -1,5 +1,7 @@
-public final class DroneDelivery implements Delivery{
-public String name;
+package Deliveries;
+
+public final class DroneDelivery implements Delivery {
+
 
     @Override
     public void deliverOrder() {
